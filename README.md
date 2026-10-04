@@ -29,6 +29,7 @@ API Features
 - Pagination
 - API error handling
 - HTTP status codes
+- Insomnia
 - Swagger/OpenAPI documentation
 
 Database
